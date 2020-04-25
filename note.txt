@@ -1,0 +1,6 @@
+I'm waiting for tekky
+
+1. Navbar
+2. Login 
+3. Background image
+4. Footer
